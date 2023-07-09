@@ -5,8 +5,8 @@ import {
   Switch,
 } from "react-router-dom";
 
-import Home from "./pages/Layout";
-import Login from "./pages/Login";
+import Home from "pages/Layout";
+import Login from "pages/Login";
 
 function App() {
   return (
